@@ -56,7 +56,7 @@ This lag can mean missed opportunities, as clients need to see the potential of 
 
 ## Details
 
-### Sources
+### Resources
 - **Code:** Github
 - **Visualization:** H2O Wave
 - **ChatGPT API Key:** please request from ryan@neuralix.ai
